@@ -99,6 +99,34 @@
 &lt;p&gt;Feel free to create inssue on &lt;a href=&#34;https://github.com/yacuken/droid-config-espresso3g/issues&#34;&gt;Github&lt;/a&gt; for bugs, questions or anything else.&lt;br /&gt;
 You can also send me private message on &lt;a href=&#34;http://forum.xda-developers.com/member.php?u=5155774&#34;&gt;XDA&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h2 id=&#34;source-code&#34;&gt;Source code&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;mer-hybris
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mer-hybris&#34;&gt;https://github.com/mer-hybris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;kernel
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yacuken/android_kernel_samsung_espresso10&#34;&gt;https://github.com/yacuken/android_kernel_samsung_espresso10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;device tree
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CyanogenMod/android_device_samsung_espresso3g&#34;&gt;https://github.com/CyanogenMod/android_device_samsung_espresso3g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yacuken/android_device_samsung_espressowifi&#34;&gt;https://github.com/yacuken/android_device_samsung_espressowifi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;hal packages
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yacuken/droid-hal-espresso3g&#34;&gt;https://github.com/yacuken/droid-hal-espresso3g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yacuken/droid-config-espresso3g&#34;&gt;https://github.com/yacuken/droid-config-espresso3g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yacuken/droid-hal-version-espresso3g&#34;&gt;https://github.com/yacuken/droid-hal-version-espresso3g&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://yacuken.me/images/espresso3g/sfos/about.png?classes=border,shadow&#34; alt=&#34;&#34; /&gt;
