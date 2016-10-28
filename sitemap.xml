@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yacuken.me/</loc>
+    <lastmod>2016-10-26T17:56:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yacuken.me/espresso3g/</loc>
+    <lastmod>2016-10-26T17:56:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yacuken.me/hello/</loc>
+    <lastmod>2016-10-26T17:56:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yacuken.me/espresso3g/sfos/</loc>
+    <lastmod>2016-10-26T17:57:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yacuken.me/espresso3g/ubuntu/</loc>
+    <lastmod>2016-10-26T17:57:07+03:00</lastmod>
+  </url>
+  
+</urlset>

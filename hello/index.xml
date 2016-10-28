@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello-rsses on yacuken.me</title>
+    <link>http://yacuken.me/hello/index.xml</link>
+    <description>Recent content in Hello-rsses on yacuken.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2016 17:56:42 +0300</lastBuildDate>
+    <atom:link href="http://yacuken.me/hello/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>http://yacuken.me/hello/</link>
+      <pubDate>Wed, 26 Oct 2016 17:56:42 +0300</pubDate>
+      
+      <guid>http://yacuken.me/hello/</guid>
+      <description>
+
+&lt;h1 id=&#34;per-aspera-ad-linux&#34;&gt;per aspera ad linux&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
